@@ -50,3 +50,4 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 ## References
 - [https://github.com/gndx/ev0-astro-theme](https://github.com/gndx/ev0-astro-theme)
 - [https://gndx.gumroad.com/l/zwaeqz](https://gndx.gumroad.com/l/zwaeqz)
+- [https://www.hyperui.dev/](https://www.hyperui.dev/)
