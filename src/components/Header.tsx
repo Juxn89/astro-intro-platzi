@@ -6,11 +6,9 @@ interface HeaderProps {
 
 const Header: FC<HeaderProps> = ({ title }) => {
 	return(
-		<>
-			<header className='container mx-auto p4'>
-				<h1 className='text-4xl text-sky-800'>{ title }</h1>
-			</header>
-		</>
+		<header className='container max-w-screen-2xl mx-auto p4'>
+			<h1 className='text-4xl text-sky-800'>{ title }</h1>
+		</header>
 	)
 }
 

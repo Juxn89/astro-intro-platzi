@@ -1,6 +1,6 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content'
-import Products from '../../layouts/Products.astro'
+import Products from '@layouts/Product.astro'
 
 export async function getStaticPaths() {
 	const products = await getCollection('products')
